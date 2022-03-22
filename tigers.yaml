@@ -14,3 +14,4 @@ members:
 
 fetch : this
 new : branch
+short key : commit
