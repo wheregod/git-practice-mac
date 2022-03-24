@@ -13,3 +13,5 @@ members:
 - kim
 
 fetch : this
+new : branch
+short key : commit
