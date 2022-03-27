@@ -5,10 +5,11 @@ manager: Thanos
 coach: Lupi
 
 members:
-- Linda
-- William
-- David
-- Olivia
-- Evie
-- Dongho
-- new
+  - Linda
+  - William
+  - David
+  - Olivia
+  - Evie
+  - Dongho
+  - new
+  - hook
