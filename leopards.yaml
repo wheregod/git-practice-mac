@@ -17,3 +17,4 @@ members:
 - pull request ver2
 - git ssh
 - signed : yes
+- cli : test
